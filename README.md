@@ -1,3 +1,3 @@
-# Administrador de pacientes
-proyecto para agregar, editar y eliminar una cita
-los datos se guardan en el local storage
+# Proyectos React
+
+En este repositorio encontrarás los proyectos realizados a lo largo de mi aprendizaje de la libreria react
