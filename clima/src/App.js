@@ -4,6 +4,7 @@ import Clima from './components/Clima';
 import Fornumario from './components/Fornumario';
 import Header from './components/Header';
 import Error from './components/Error';
+import { appId } from './key';
 
 
 const initilFormvalues = {
@@ -21,7 +22,7 @@ function App() {
 
   useEffect(() => {
     const consultarApi = async () => {
-      const appId = 'fa7e1aeeb10bb9608eff0637c105bace'
+      const key = appId || 'clave'
       const url = `https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${appId}
       `
       if (consultar) {
