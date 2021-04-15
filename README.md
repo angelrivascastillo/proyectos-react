@@ -8,6 +8,12 @@ app web que consume api de openweather y muestra el clima de acuerdo a una ciuda
 
 - [link](https://zealous-ptolemy-71c193.netlify.app/)
 
+## Buscador de noticias
+
+App web que consume api de pixabay y devuelve una lista de imágenes de acuerdo termino a buscar, además cuenta con paginador
+
+- [link](https://condescending-swanson-4ce10f.netlify.app/)
+
 ## Cotizador
 
 app web que cotiza el precio de un seguro de auto
