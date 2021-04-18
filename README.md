@@ -25,3 +25,9 @@ app web que cotiza el precio de un seguro de auto
 app web que cotiza el precio de las criptomonedas más valiosas al valor de distintas monedas
 
 - [link](https://pensive-feynman-d2eefb.netlify.app/)
+
+## Letras de canciones
+
+Consulta api de https://lyrics.ovh/ y el api TheAudioDB para mostrar la letra de la canción e información del artista
+
+- [link](https://epic-wright-c798b1.netlify.app/)
